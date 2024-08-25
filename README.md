@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Goguri Manikanta Reddy</h1>
 <h3 align="center">A passionate Java Fullstack developer from India</h3>
 
-<p align="center" > <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="manikanta-reddy-goguri"  width="80" height="80"/> </p>
+<p align="center" > <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="manikanta-reddy-goguri"  width="400" height="400"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikanta-reddy-goguri" alt="manikanta-reddy-goguri" /></a> </p>
 
